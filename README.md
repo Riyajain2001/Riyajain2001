@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @Riyajain2001
 - 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently learning VAPT.
-- 💞️ I’m looking to collaborate on various projects
+- 🌱 I’m currently working as a Security researcher. 
+- 💞️ I’m looking to learn Red teaming and Blue teaming. 
 
 
 
